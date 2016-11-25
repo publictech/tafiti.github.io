@@ -2,7 +2,6 @@
 layout: post
 title: Network Measurements
 subtitle: Kampala Files
-bigimg: /img/path.jpg
 ---
 
 Background
