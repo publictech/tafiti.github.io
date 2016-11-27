@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About Tafiti
+subtitle: Who we are
 ---
 
 Tafiti Group is a research and consultancy firm focused on Eastern Africa’s economic, social and political dynamics and how this relates to continental and global trends. Our innovative research tools and rich data portfolio equips our client with confidence in decision-making in unstructured sectors and spaces. We are constantly blending our qualitative and quantitative research creativity with coordinated analytical methodology to deliver credible information to our partners. 
